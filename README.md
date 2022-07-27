@@ -9,3 +9,4 @@ Note that these identification methods rely on engine fundamentals which have no
 
 **Steps**
 * [Starting off](https://github.com/reversing-edu/osrs-native-easymode/blob/main/0.md)
+* [Finding entities](https://github.com/reversing-edu/osrs-native-easymode/blob/main/1.md)
