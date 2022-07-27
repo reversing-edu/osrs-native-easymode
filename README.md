@@ -5,3 +5,7 @@ Note that these identification methods rely on engine fundamentals which have no
 **Requirements:**
 - Half a brain. If missing, I recommend contacting Oak to purchase - preferably a full one
 - Basic knowledge to operate a reverse engineering suite (Ghidra, IDA etc)
+
+
+**Steps**
+* [Starting off](https://github.com/reversing-edu/osrs-native-easymode/blob/main/0.md)
