@@ -10,3 +10,6 @@ Note that these identification methods rely on engine fundamentals which have no
 **Steps**
 * [Starting off](https://github.com/reversing-edu/osrs-native-easymode/blob/main/0.md)
 * [Finding entities](https://github.com/reversing-edu/osrs-native-easymode/blob/main/1.md)
+
+
+**Note:** This repository is not necessarily intended to teach you reverse engineering but rather just displays an easy approach to identifying core entities and interaction functions that are needed for a bot.
